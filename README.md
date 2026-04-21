@@ -1,4 +1,4 @@
-# GitHub 零基础入门全套学习课程目录
+# GitHub 零基础入门全套学习课程目录（流浪学github）
 ## 一、GitHub 基础认知
 1. GitHub 是什么、与 Git 的区别
 2. GitHub 平台功能简介
